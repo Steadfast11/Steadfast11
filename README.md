@@ -1,6 +1,6 @@
 # Xasan Abduxafizov
 
-AI & Software Engineer based in Samarkand, Uzbekistan. I build AI agents, workflow automation, CRM systems, websites and web applications for local and remote projects.
+AI & Software Engineer in Samarkand, Uzbekistan. AI agents, automation, CRM, websites & web apps.
 
 [Portfolio](https://xasan-portfolio-next.netlify.app/) · [Services](https://xasan-portfolio-next.netlify.app/services) · [Contact](https://xasan-portfolio-next.netlify.app/contact)
 
