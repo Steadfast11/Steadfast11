@@ -10,4 +10,4 @@ AI & Software Engineer based in Samarkand, Uzbekistan. I build AI agents, workfl
 - [Orvell](https://github.com/Steadfast11/orvell-app) — a local-first Android app for supported FitCloud smartwatches.
 - [lidrop](https://github.com/Steadfast11/lidrop) — a phone-to-computer file transfer prototype.
 
-[LinkedIn](https://www.linkedin.com/in/xasan-abduxafizov-200453442/) · [Instagram](https://www.instagram.com/xasanabdukhafizov/) · [Telegram](https://t.me/XasanAbdukhafizov)
+[LinkedIn](https://www.linkedin.com/in/xasan-abduxafizov-200453442/) · [Instagram](https://www.instagram.com/xasanabdukhafizov/) · [Telegram](https://t.me/XasanAbdukhafizov) · [Facebook](https://www.facebook.com/people/Xasanabdukhafizov/61596576057335/)
