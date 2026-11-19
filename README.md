@@ -2,6 +2,8 @@
 
 AI & Software Engineer in Samarkand, Uzbekistan. AI agents, automation, CRM, websites & web apps.
 
+My name also appears as Abduxafizov Hasan.
+
 [Portfolio](https://xasan-portfolio-next.netlify.app/) · [Services](https://xasan-portfolio-next.netlify.app/services) · [Contact](https://xasan-portfolio-next.netlify.app/contact)
 
 ## Selected work
