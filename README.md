@@ -1,4 +1,4 @@
-# Xasan Abduxafizov
+# Xasan Abduxafizov (Steadfast11)
 
 AI & Software Engineer in Samarkand, Uzbekistan. AI agents, automation, CRM, websites & web apps.
 
